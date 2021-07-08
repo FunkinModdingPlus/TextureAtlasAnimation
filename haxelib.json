@@ -1,0 +1,14 @@
+{
+    "contributors": [
+        "bulbyvr"
+    ],
+    "version": "0.0.1",
+    "description": "animation ffor haxe flixel : )",
+    "releasenote": "Tweaks and fixes",
+    "tags": [
+        "flixel"
+    ],
+    "license": "Public",
+    "name": "flixel-textureatlas",
+    "url": "https://github.com/haxeui/haxeui-flixel"
+}
