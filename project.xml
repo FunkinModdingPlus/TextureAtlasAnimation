@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<extension>
-
+<project>
 
 	<classpath name="src"/>
 
 	<!-- _______________________________ Libraries ______________________________ -->
 	<haxelib name="openfl"/>
 	
-</extension>
+</project>
